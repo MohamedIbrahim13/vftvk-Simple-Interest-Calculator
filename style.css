@@ -2,3 +2,13 @@ body {background-color:tan;}
 h1{color:green;}
 
 
+
+.maindiv{
+    color: black;
+    width: 50vw;
+    padding: 10px;
+    border-radius: 15px;
+    margin: auto;
+}
+
+
